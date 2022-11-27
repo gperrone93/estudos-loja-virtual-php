@@ -23,7 +23,7 @@ Este é um projeto que faz parte do curso da HCODE
 - Configurar o httpd-vhosts.conf do apache com as info
 ````
 <VirtualHost *:80>
-    ServerAdmin webmaster@hcode.com.br
+    ServerAdmin gabriel.dev93@gmail.com.br
     DocumentRoot "G:/Outros computadores/Meu computador/Novos_estudos/Udemy/php7/26-projeto-final/loja-virtual-php"
     ServerName www.gpecommerce.com.br
     ErrorLog "logs/dummy-host2.example.com-error.log"
@@ -39,5 +39,7 @@ Este é um projeto que faz parte do curso da HCODE
 	</Directory>
 </VirtualHost>
 
-```
+````
+
 - Faça um composer upodate no projeto para instalar as dependencias e configurar o autoload 
+- 

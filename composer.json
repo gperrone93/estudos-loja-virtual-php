@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\gperrone93\\php-classes\\src"
+            "Gperrone\\": "vendor\\gperrone\\php-classes\\src"
         }
     }
 }
